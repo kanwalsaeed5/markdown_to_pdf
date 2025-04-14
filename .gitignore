@@ -2,7 +2,7 @@ __pycache__/
 *.pyc
 *.pdf
 .env
+.DS_Store
 venv/
 .env/
 spacy_env/
-.DS_Store
