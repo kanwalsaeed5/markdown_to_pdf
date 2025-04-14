@@ -5,4 +5,4 @@ __pycache__/
 venv/
 .env/
 spacy_env/
-app/routes/.DS_Store/
+app/.DS_Store/
